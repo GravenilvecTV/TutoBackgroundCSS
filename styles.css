@@ -1,0 +1,26 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+section {
+    height: 50vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+section#welcome {
+    background-image: url(images/iceberg.jpg);
+}
+
+section#explore {
+    background-image: url(images/iceberg2.jpg);
+}
+
+section#photos {
+    background-image: url(images/iceberg3.jpg);
+}
+
+section#contact {
+    background-image: url(images/iceberg4.jpg);
+}
